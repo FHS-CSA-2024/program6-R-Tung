@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class Main {
+public class Program6 {
   public static void main(String[] args) {
 
     final double pi = 3.14159;
